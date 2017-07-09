@@ -1,4 +1,20 @@
-# AngularTourOfHeroes
+# Angular Tour of Heroes - Tutorial
+
+This project is a thorough tutorial of AngularJS
+
+## What I Learned
+
+* I learned about Angular's two-way data binding, which is a mechanism by which the model is synced from the view and the controller
+* I learned about components, how they are structured, and also how their layouts and styles can be separated into different files
+* I learned about `Service`s in Angular, and how to inject them into different components
+* I learned about dependency injection for Angular classes, and how useful DI can be for creating classes that are more easily tested and managed
+* I learned about Angular routing and how you can control the user's navigation experience in your web app
+* I learned how to add dependencies to an Angular project, noting that it required a restart of the web app (and my text-editor)
+* I learned how to use Observables
+* I learned how to use an in-memory Web API for retrieving data
+
+
+# Original Project README
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
